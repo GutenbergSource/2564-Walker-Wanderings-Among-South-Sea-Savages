@@ -4,14 +4,19 @@
 <fileDesc>
 <titleStmt>
 <title>Wanderings Among South Sea Savages and in Borneo and the Philippines</title>
-<author sortkey="Walker, H. Wilfrid">H. Wilfrid Walker</author>
-<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+<author key="Walker, H. Wilfrid" ref="https://viaf.org/viaf/7380297/">H. Wilfrid Walker</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
 <pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>500034760</idno>
+<idno type=LibThing>#####</idno>
 <idno type=epub-id>urn:uuid:e86c1a10-e418-4a37-9d7a-21e87dc96483</idno>
 <idno type=PGnum>2564</idno>
+<idno type=PGSrc>2564-Walker-Wanderings-Among-South-Sea-Savages</idno>
 <idno type=PGPH>1</idno>
 <date>2001-03-01</date>
 <availability>
