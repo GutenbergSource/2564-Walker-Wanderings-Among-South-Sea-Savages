@@ -1,11 +1,11 @@
-<TEI.2 lang="en-uk" xml:lang="en-uk"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>Wanderings Among South Sea Savages and in Borneo and the Philippines</title><author sortkey="Walker, H. Wilfrid">H. Wilfrid Walker</author><respStmt><resp>Transcription</resp><name>Jeroen Hellingman</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="epub-id">urn:uuid:e86c1a10-e418-4a37-9d7a-21e87dc96483</idno><idno type="PGnum">2564</idno><idno type="PGPH">1</idno><date>2001-03-01</date><availability><p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <xref url='http://www.gutenberg.org/license' rel='license'>Project Gutenberg License</xref> included with this eBook or online at <xref url='http://www.gutenberg.org/' rel='home'>www.gutenberg.org</xref>.
+<TEI.2 lang="en-uk" xml:lang="en-uk"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>Wanderings Among South Sea Savages and in Borneo and the Philippines</title><author sortkey="Walker, H. Wilfrid">H. Wilfrid Walker</author><respStmt><resp>Transcription</resp><name>Jeroen Hellingman</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="epub-id">urn:uuid:e86c1a10-e418-4a37-9d7a-21e87dc96483</idno><idno type="PGnum">2564</idno><idno type="PGPH">1</idno><date>2001-03-01</date><availability><p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg License</xref> included with this eBook or online at <xref url='https://www.gutenberg.org/' rel='home'>www.gutenberg.org</xref>.
 </p><p>This eBook is produced by Jeroen Hellingman.
 </p></availability></publicationStmt><sourceDesc><bibl><author>H. Wilfrid Walker</author>
 <title>Wanderings Among South Sea Savages and in Borneo and the Philippines</title>
 <edition>first edition</edition>
 <publisher>Witherby &amp; Co.</publisher>
 <pubPlace>London</pubPlace>
-<date>1909</date></bibl></sourceDesc></fileDesc><encodingDesc/><profileDesc><langUsage><language id="en-uk">British English.</language></langUsage><textClass><keywords><list type="simple"><item>Oceania -- Description and travel</item><item>Ethnology -- Oceania</item><item>Philippines -- Description and travel</item><item>Borneo -- Description and travel</item></list></keywords></textClass></profileDesc><revisionDesc><list type="simple"><item>05-OCT-2000 Added TEI Header.
+<date>1909</date></bibl></sourceDesc></fileDesc><encodingDesc/><profileDesc><langUsage><language id="en-uk">British English.</language></langUsage><textClass><keywords><list><item>Oceania -- Description and travel</item><item>Ethnology -- Oceania</item><item>Philippines -- Description and travel</item><item>Borneo -- Description and travel</item></list></keywords></textClass></profileDesc><revisionDesc><list><item>05-OCT-2000 Added TEI Header.
     </item><item>23-JUL-2005 Last Revision.
     </item><item>04-NOV-2009 Regenerated HTML, added colophon.</item></list></revisionDesc></teiHeader><text><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/new-cover.jpg)"><figDesc>Newly Designed Front Cover.</figDesc></figure>
 
@@ -33,7 +33,7 @@ is affectionately dedicated.
 
 <pb n="ix"/>
 
-</p><divGen id="toc" type="toc"/><pb n="xv"/></div1><div1 id="loi" type="Contents"><head>List of Illustrations</head><list type="simple"><item><ref target="p01"><hi>Frontispiece</hi>&#8212;Belles of Papua.</ref>
+</p><divGen id="toc" type="toc"/><pb n="xv"/></div1><div1 id="loi" type="Contents"><head>List of Illustrations</head><list><item><ref target="p01"><hi>Frontispiece</hi>&#8212;Belles of Papua.</ref>
     </item><item><ref target="p02">A Chief&#8217;s Daughter and a Daughter of the People</ref>
     </item><item><ref target="p03">A &#8220;Meke-Meke,&#8221; or Fijian Girls&#8217; Dance</ref>
     </item><item><ref target="p04">Interior of a large Fijian Hut</ref>

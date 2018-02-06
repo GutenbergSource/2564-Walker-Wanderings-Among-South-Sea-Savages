@@ -1,108 +1,108 @@
 <images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
-<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+<image path="images/book.png" filesize="364" filedate="2017-11-22 21:40:35" width="16px" height="16px">
 </image>
-<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+<image path="images/card.png" filesize="249" filedate="2017-11-22 21:40:35" width="16px" height="11px">
 </image>
-<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+<image path="images/external.png" filesize="172" filedate="2017-11-22 21:40:35" width="12px" height="12px">
 </image>
-<image path="images/new-cover-tn.jpg" filesize="20013" filedate="2014-09-19 18:08:56" width="213px" height="320px">
+<image path="images/new-cover-tn.jpg" filesize="20013" filedate="2017-11-22 21:40:35" width="213px" height="320px">
 </image>
-<image path="images/new-cover.jpg" filesize="91810" filedate="2014-09-19 18:06:48" width="480px" height="720px">
+<image path="images/new-cover.jpg" filesize="91810" filedate="2017-11-22 21:40:35" width="480px" height="720px">
 </image>
-<image path="images/p01.jpg" filesize="50645" filedate="2004-07-09 21:31:42" width="317px" height="512px">
+<image path="images/p01.jpg" filesize="50645" filedate="2017-11-22 21:40:36" width="317px" height="512px">
 </image>
-<image path="images/p02.jpg" filesize="40042" filedate="2004-07-09 21:32:28" width="512px" height="345px">
+<image path="images/p02.jpg" filesize="40042" filedate="2017-11-22 21:40:36" width="512px" height="345px">
 </image>
-<image path="images/p03.jpg" filesize="57666" filedate="2004-07-09 21:33:56" width="512px" height="328px">
+<image path="images/p03.jpg" filesize="57666" filedate="2017-11-22 21:40:36" width="512px" height="328px">
 </image>
-<image path="images/p04.jpg" filesize="52307" filedate="2004-07-09 21:35:03" width="512px" height="359px">
+<image path="images/p04.jpg" filesize="52307" filedate="2017-11-22 21:40:36" width="512px" height="359px">
 </image>
-<image path="images/p05.jpg" filesize="46726" filedate="2004-07-09 21:35:59" width="345px" height="512px">
+<image path="images/p05.jpg" filesize="46726" filedate="2017-11-22 21:40:36" width="345px" height="512px">
 </image>
-<image path="images/p06.jpg" filesize="68916" filedate="2004-07-09 21:37:36" width="359px" height="512px">
+<image path="images/p06.jpg" filesize="68916" filedate="2017-11-22 21:40:36" width="359px" height="512px">
 </image>
-<image path="images/p07.jpg" filesize="41856" filedate="2004-07-09 21:39:42" width="378px" height="512px">
+<image path="images/p07.jpg" filesize="41856" filedate="2017-11-22 21:40:36" width="378px" height="512px">
 </image>
-<image path="images/p08.jpg" filesize="37237" filedate="2004-07-09 21:41:25" width="512px" height="316px">
+<image path="images/p08.jpg" filesize="37237" filedate="2017-11-22 21:40:36" width="512px" height="316px">
 </image>
-<image path="images/p09.jpg" filesize="52595" filedate="2004-07-09 21:43:59" width="373px" height="512px">
+<image path="images/p09.jpg" filesize="52595" filedate="2017-11-22 21:40:36" width="373px" height="512px">
 </image>
-<image path="images/p10.jpg" filesize="51056" filedate="2004-07-09 21:45:16" width="512px" height="340px">
+<image path="images/p10.jpg" filesize="51056" filedate="2017-11-22 21:40:36" width="512px" height="340px">
 </image>
-<image path="images/p11.jpg" filesize="61107" filedate="2004-07-09 21:46:39" width="512px" height="337px">
+<image path="images/p11.jpg" filesize="61107" filedate="2017-11-22 21:40:36" width="512px" height="337px">
 </image>
-<image path="images/p12.jpg" filesize="43202" filedate="2004-07-09 21:47:47" width="263px" height="512px">
+<image path="images/p12.jpg" filesize="43202" filedate="2017-11-22 21:40:36" width="263px" height="512px">
 </image>
-<image path="images/p13.jpg" filesize="56321" filedate="2004-07-09 21:48:47" width="512px" height="330px">
+<image path="images/p13.jpg" filesize="56321" filedate="2017-11-22 21:40:36" width="512px" height="330px">
 </image>
-<image path="images/p14.jpg" filesize="56301" filedate="2004-07-09 21:49:53" width="351px" height="512px">
+<image path="images/p14.jpg" filesize="56301" filedate="2017-11-22 21:40:36" width="351px" height="512px">
 </image>
-<image path="images/p15.jpg" filesize="61394" filedate="2004-07-09 21:51:07" width="512px" height="347px">
+<image path="images/p15.jpg" filesize="61394" filedate="2017-11-22 21:40:36" width="512px" height="347px">
 </image>
-<image path="images/p16.jpg" filesize="62486" filedate="2004-07-09 21:52:06" width="512px" height="338px">
+<image path="images/p16.jpg" filesize="62486" filedate="2017-11-22 21:40:36" width="512px" height="338px">
 </image>
-<image path="images/p17.jpg" filesize="48453" filedate="2004-07-09 21:53:21" width="512px" height="358px">
+<image path="images/p17.jpg" filesize="48453" filedate="2017-11-22 21:40:36" width="512px" height="358px">
 </image>
-<image path="images/p18.jpg" filesize="54371" filedate="2004-07-09 21:54:35" width="369px" height="512px">
+<image path="images/p18.jpg" filesize="54371" filedate="2017-11-22 21:40:36" width="369px" height="512px">
 </image>
-<image path="images/p19.jpg" filesize="47120" filedate="2004-07-09 21:56:05" width="286px" height="512px">
+<image path="images/p19.jpg" filesize="47120" filedate="2017-11-22 21:40:36" width="286px" height="512px">
 </image>
-<image path="images/p20.jpg" filesize="43082" filedate="2004-07-09 21:57:07" width="353px" height="512px">
+<image path="images/p20.jpg" filesize="43082" filedate="2017-11-22 21:40:36" width="353px" height="512px">
 </image>
-<image path="images/p21.jpg" filesize="42740" filedate="2004-07-09 21:58:26" width="329px" height="512px">
+<image path="images/p21.jpg" filesize="42740" filedate="2017-11-22 21:40:36" width="329px" height="512px">
 </image>
-<image path="images/p22.jpg" filesize="50587" filedate="2004-07-09 21:59:42" width="512px" height="330px">
+<image path="images/p22.jpg" filesize="50587" filedate="2017-11-22 21:40:36" width="512px" height="330px">
 </image>
-<image path="images/p23.jpg" filesize="46852" filedate="2004-07-09 22:01:03" width="317px" height="512px">
+<image path="images/p23.jpg" filesize="46852" filedate="2017-11-22 21:40:36" width="317px" height="512px">
 </image>
-<image path="images/p24.jpg" filesize="46189" filedate="2004-07-09 22:02:26" width="419px" height="512px">
+<image path="images/p24.jpg" filesize="46189" filedate="2017-11-22 21:40:36" width="419px" height="512px">
 </image>
-<image path="images/p25.jpg" filesize="61453" filedate="2004-07-09 22:03:54" width="512px" height="360px">
+<image path="images/p25.jpg" filesize="61453" filedate="2017-11-22 21:40:36" width="512px" height="360px">
 </image>
-<image path="images/p26.jpg" filesize="70538" filedate="2004-07-09 22:05:04" width="512px" height="479px">
+<image path="images/p26.jpg" filesize="70538" filedate="2017-11-22 21:40:36" width="512px" height="479px">
 </image>
-<image path="images/p27.jpg" filesize="49349" filedate="2004-07-09 22:05:56" width="333px" height="512px">
+<image path="images/p27.jpg" filesize="49349" filedate="2017-11-22 21:40:36" width="333px" height="512px">
 </image>
-<image path="images/p28.jpg" filesize="56082" filedate="2004-07-09 22:07:07" width="512px" height="415px">
+<image path="images/p28.jpg" filesize="56082" filedate="2017-11-22 21:40:36" width="512px" height="415px">
 </image>
-<image path="images/p29.jpg" filesize="46307" filedate="2004-07-09 22:07:55" width="345px" height="512px">
+<image path="images/p29.jpg" filesize="46307" filedate="2017-11-22 21:40:36" width="345px" height="512px">
 </image>
-<image path="images/p30.jpg" filesize="44096" filedate="2004-07-09 22:09:00" width="331px" height="512px">
+<image path="images/p30.jpg" filesize="44096" filedate="2017-11-22 21:40:36" width="331px" height="512px">
 </image>
-<image path="images/p31.jpg" filesize="64455" filedate="2004-07-09 22:10:06" width="400px" height="512px">
+<image path="images/p31.jpg" filesize="64455" filedate="2017-11-22 21:40:36" width="400px" height="512px">
 </image>
-<image path="images/p32.jpg" filesize="47937" filedate="2004-07-09 22:11:13" width="348px" height="512px">
+<image path="images/p32.jpg" filesize="47937" filedate="2017-11-22 21:40:36" width="348px" height="512px">
 </image>
-<image path="images/p33.jpg" filesize="30306" filedate="2004-07-09 22:12:04" width="348px" height="512px">
+<image path="images/p33.jpg" filesize="30306" filedate="2017-11-22 21:40:36" width="348px" height="512px">
 </image>
-<image path="images/p34.jpg" filesize="67764" filedate="2004-07-09 22:13:06" width="512px" height="424px">
+<image path="images/p34.jpg" filesize="67764" filedate="2017-11-22 21:40:36" width="512px" height="424px">
 </image>
-<image path="images/p35.jpg" filesize="56618" filedate="2004-07-09 22:14:13" width="512px" height="333px">
+<image path="images/p35.jpg" filesize="56618" filedate="2017-11-22 21:40:36" width="512px" height="333px">
 </image>
-<image path="images/p36.jpg" filesize="27585" filedate="2004-07-09 22:15:20" width="512px" height="275px">
+<image path="images/p36.jpg" filesize="27585" filedate="2017-11-22 21:40:36" width="512px" height="275px">
 </image>
-<image path="images/p37.jpg" filesize="46903" filedate="2005-07-23 14:02:56" width="512px" height="334px">
+<image path="images/p37.jpg" filesize="46903" filedate="2017-11-22 21:40:36" width="512px" height="334px">
 </image>
-<image path="images/p38.jpg" filesize="50774" filedate="2005-07-23 13:53:56" width="512px" height="304px">
+<image path="images/p38.jpg" filesize="50774" filedate="2017-11-22 21:40:36" width="512px" height="304px">
 </image>
-<image path="images/p39.jpg" filesize="31636" filedate="2005-07-23 14:01:40" width="512px" height="383px">
+<image path="images/p39.jpg" filesize="31636" filedate="2017-11-22 21:40:36" width="512px" height="383px">
 </image>
-<image path="images/p40.jpg" filesize="49562" filedate="2005-07-23 14:00:57" width="387px" height="512px">
+<image path="images/p40.jpg" filesize="49562" filedate="2017-11-22 21:40:36" width="387px" height="512px">
 </image>
-<image path="images/p41.jpg" filesize="39419" filedate="2005-07-23 14:00:16" width="512px" height="323px">
+<image path="images/p41.jpg" filesize="39419" filedate="2017-11-22 21:40:36" width="512px" height="323px">
 </image>
-<image path="images/p42.jpg" filesize="54939" filedate="2005-07-23 13:59:32" width="512px" height="361px">
+<image path="images/p42.jpg" filesize="54939" filedate="2017-11-22 21:40:36" width="512px" height="361px">
 </image>
-<image path="images/p43.jpg" filesize="38194" filedate="2005-07-23 13:58:47" width="295px" height="512px">
+<image path="images/p43.jpg" filesize="38194" filedate="2017-11-22 21:40:36" width="295px" height="512px">
 </image>
-<image path="images/p44.jpg" filesize="54925" filedate="2005-07-23 13:57:28" width="512px" height="369px">
+<image path="images/p44.jpg" filesize="54925" filedate="2017-11-22 21:40:36" width="512px" height="369px">
 </image>
-<image path="images/p45.jpg" filesize="49322" filedate="2005-07-23 13:56:18" width="512px" height="350px">
+<image path="images/p45.jpg" filesize="49322" filedate="2017-11-22 21:40:36" width="512px" height="350px">
 </image>
-<image path="images/p46.jpg" filesize="30550" filedate="2005-07-23 13:55:27" width="238px" height="512px">
+<image path="images/p46.jpg" filesize="30550" filedate="2017-11-22 21:40:36" width="238px" height="512px">
 </image>
-<image path="images/p47.jpg" filesize="45666" filedate="2005-07-23 13:54:41" width="512px" height="360px">
+<image path="images/p47.jpg" filesize="45666" filedate="2017-11-22 21:40:36" width="512px" height="360px">
 </image>
-<image path="images/p48.jpg" filesize="65703" filedate="2005-07-23 14:02:19" width="413px" height="512px">
+<image path="images/p48.jpg" filesize="65703" filedate="2017-11-22 21:40:36" width="413px" height="512px">
 </image>
 </images>
