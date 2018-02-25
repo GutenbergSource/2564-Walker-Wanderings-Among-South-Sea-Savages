@@ -12,7 +12,7 @@ The version maintained in this repository may be slightly out-of-sync with the v
 | Author | H. Wilfrid Walker |
 | Publisher | Project Gutenberg, Urbana, Illinois, USA., 2001-03-01 |
 | Publication date | 2001-03-01 |
-| Availability | This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. This eBook is produced by Jeroen Hellingman. |
+| Availability | This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the [Project Gutenberg License](https://www.gutenberg.org/license) included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org/). This eBook is produced by Jeroen Hellingman. |
 | Keyword | Oceania -- Description and travel |
 | Keyword | Ethnology -- Oceania |
 | Keyword | Philippines -- Description and travel |
